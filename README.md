@@ -18,7 +18,7 @@ GKD 订阅模板, 此仓库方便您直接构建自己订阅, 点击右上角 [U
 接下来下载并初始化环境
 
 ```shell
-git clone https://github.com/username/subscription
+git clone https://github.com/zzzx8888/subscription
 cd subscription
 pnpm install
 ```
